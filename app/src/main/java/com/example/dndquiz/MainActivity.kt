@@ -18,6 +18,9 @@ import com.example.dndquiz.databinding.ActivityMainBinding
 private const val TAG = "MainActivity"
 
 
+
+//This is a test comment to test out pushing changes to git
+
 class MainActivity : AppCompatActivity() {
     // create two button objects ready to go
     private lateinit var binding: ActivityMainBinding
